@@ -101,11 +101,11 @@
 // ২. স্প্রেড অপারেটর (...) কিভাবে কাজ করে। বিশেষ করে একটা array কে কপি করে নতুন করে array বানাবে এবং সেখানে একটা উপাদান যোগ করবে। আবার একটা উপাদান কে বাদ দিয়ে বাকি সব উপাদানকে কিভাবে যোগ করবে (filter ইউজ করে)
 // Speed operator: array ar opadan ke new akta array te ropantor kora; new array add korte hole [...number,100]
 
-let animal = {
-  name: 'dog',
-  color: 'red',
-  age: 24
-};
+// let animal = {
+//   name: 'dog',
+//   color: 'red',
+//   age: 24
+// };
 // jodi basi data ak object thake tahole sob ak shathe onno akta array or object a anar jonno 
 // const { ...output} = animal;
 // console.log(output);
